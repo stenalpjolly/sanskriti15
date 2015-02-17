@@ -1,0 +1,301 @@
+@font-face {
+	font-family: 'icomoon';
+	src:url('../fonts/icomoon.eot?a2rllw');
+	src:url('../fonts/icomoon.eot?#iefixa2rllw') format('embedded-opentype'),
+		url('../fonts/icomoon.woff?a2rllw') format('woff'),
+		url('../fonts/icomoon.ttf?a2rllw') format('truetype'),
+		url('../fonts/icomoon.svg?a2rllw#icomoon') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+	font-family: 'icomoon';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.icon-event-note:before {
+	content: "\e60f";
+}
+
+.icon-th-list:before {
+	content: "\e600";
+}
+
+.icon-user-delete:before {
+	content: "\e601";
+}
+
+.icon-user-add:before {
+	content: "\e602";
+}
+
+.icon-group:before {
+	content: "\e603";
+}
+
+.icon-export-outline:before {
+	content: "\e604";
+}
+
+.icon-user-add-outline:before {
+	content: "\e605";
+}
+
+.icon-group-outline:before {
+	content: "\e606";
+}
+
+.icon-chart-line-outline:before {
+	content: "\e607";
+}
+
+.icon-document:before {
+	content: "\e608";
+}
+
+.icon-document-delete:before {
+	content: "\e609";
+}
+
+.icon-document-add:before {
+	content: "\e60a";
+}
+
+.icon-document-text:before {
+	content: "\e60b";
+}
+
+.icon-clipboard:before {
+	content: "\e60c";
+}
+
+.icon-contacts:before {
+	content: "\e60d";
+}
+
+.icon-book:before {
+	content: "\e60e";
+}
+
+.icon-sunny:before {
+	content: "\e610";
+}
+
+.icon-lamp:before {
+	content: "\e611";
+}
+
+.icon-lightbulb:before {
+	content: "\e030";
+}
+
+.icon-layers:before {
+	content: "\e031";
+}
+
+.icon-hotairballoon:before {
+	content: "\e044";
+}
+
+.icon-search:before {
+	content: "\e612";
+}
+
+.icon-mail:before {
+	content: "\e613";
+}
+
+.icon-note:before {
+	content: "\e614";
+}
+
+.icon-calendar2:before {
+	content: "\f068";
+}
+
+.icon-envelope:before {
+	content: "\e615";
+}
+
+.icon-phone:before {
+	content: "\e616";
+}
+
+.icon-stats:before {
+	content: "\e617";
+}
+
+.icon-floppy:before {
+	content: "\e618";
+}
+
+.icon-addressbook:before {
+	content: "\e619";
+}
+
+.icon-lamp2:before {
+	content: "\e61a";
+}
+
+.icon-home:before {
+	content: "\e900";
+}
+
+.icon-home3:before {
+	content: "\e902";
+}
+
+.icon-pencil:before {
+	content: "\e905";
+}
+
+.icon-pencil2:before {
+	content: "\e906";
+}
+
+.icon-images:before {
+	content: "\e90e";
+}
+
+.icon-film:before {
+	content: "\e913";
+}
+
+.icon-book2:before {
+	content: "\e91f";
+}
+
+.icon-profile:before {
+	content: "\e923";
+}
+
+.icon-folder-plus:before {
+	content: "\e931";
+}
+
+.icon-folder-upload:before {
+	content: "\e934";
+}
+
+.icon-credit-card:before {
+	content: "\e93f";
+}
+
+.icon-phone2:before {
+	content: "\e942";
+}
+
+.icon-address-book:before {
+	content: "\e944";
+}
+
+.icon-envelop:before {
+	content: "\e945";
+}
+
+.icon-map:before {
+	content: "\e94b";
+}
+
+.icon-calendar:before {
+	content: "\e953";
+}
+
+.icon-database:before {
+	content: "\e964";
+}
+
+.icon-equalizer:before {
+	content: "\e992";
+}
+
+.icon-clipboard2:before {
+	content: "\e9b8";
+}
+
+.icon-list-numbered:before {
+	content: "\e9b9";
+}
+
+.icon-list:before {
+	content: "\e9ba";
+}
+
+.icon-plus:before {
+	content: "\ea0a";
+}
+
+.icon-minus:before {
+	content: "\ea0b";
+}
+
+.icon-exit:before {
+	content: "\ea14";
+}
+
+.icon-th:before {
+	content: "\f00a";
+}
+
+.icon-th-list2:before {
+	content: "\f00b";
+}
+
+.icon-check:before {
+	content: "\f00c";
+}
+
+.icon-close:before {
+	content: "\f00d";
+}
+
+.icon-trash-o:before {
+	content: "\f014";
+}
+
+.icon-plus-circle:before {
+	content: "\f055";
+}
+
+.icon-minus-circle:before {
+	content: "\f056";
+}
+
+.icon-credit-card2:before {
+	content: "\f09d";
+}
+
+.icon-group2:before {
+	content: "\f0c0";
+}
+
+.icon-rotate-left:before {
+	content: "\f0e2";
+}
+
+.icon-spinner:before {
+	content: "\f110";
+}
+
+.icon-file-pdf-o:before {
+	content: "\f1c1";
+}
+
+.icon-file-word-o:before {
+	content: "\f1c2";
+}
+
+.icon-file-excel-o:before {
+	content: "\f1c3";
+}
+
